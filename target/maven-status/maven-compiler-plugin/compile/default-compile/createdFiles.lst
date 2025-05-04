@@ -1,0 +1,4 @@
+com\sparklehood\sparklehood\controller\IncidentController.class
+com\sparklehood\sparklehood\model\Incident.class
+com\sparklehood\sparklehood\repository\IncidentRepository.class
+com\sparklehood\sparklehood\SparklehoodApplication.class
